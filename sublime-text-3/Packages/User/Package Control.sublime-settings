@@ -1,6 +1,8 @@
 {
 	"installed_packages":
 	[
-		"SublimeLinter"
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-pep8"
 	]
 }
