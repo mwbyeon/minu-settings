@@ -1,8 +1,20 @@
 {
+	"in_process_packages":
+	[
+	],
+	"installed_dependencies":
+	[
+		"0_package_control_loader",
+		"bz2"
+	],
 	"installed_packages":
 	[
+		"AutoPEP8",
+		"EncodingHelper",
+		"Package Control",
 		"SideBarEnhancements",
 		"SublimeLinter",
-		"SublimeLinter-pep8"
+		"SublimeLinter-pep8",
+		"Theme - Spacegray"
 	]
 }
