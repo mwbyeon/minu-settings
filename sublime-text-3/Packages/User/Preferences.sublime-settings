@@ -2,13 +2,13 @@
 	"color_scheme": "Packages/Theme - Spacegray/base16-eighties.dark.tmTheme",
 	"detect_indentation": false,
 	"font_face": "Bitstream Vera Sans Mono",
-	"font_size": 16.0,
+	"font_size": 18.0,
 	"ignored_packages":
 	[
-		"Emmet",
 		"ConvertToUTF8",
-		"Vintage",
-		"SublimeLinter"
+		"Emmet",
+		"SublimeLinter",
+		"Vintage"
 	],
 	"show_encoding": true,
 	"spacegray_sidebar_font_large": true,
